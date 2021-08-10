@@ -51,7 +51,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Compass Bots", url="https://t.me/TeluguToonStreet"),
+                    InlineKeyboardButton("Our Bots", url="https://t.me/TeluguToonStreet"),
                     InlineKeyboardButton("Developer", url="https://t.me/ValT_Aio")
                 ]
             ]
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/dakshkohli23/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/Yaswanth648/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
