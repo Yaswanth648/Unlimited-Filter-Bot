@@ -32,7 +32,7 @@ See <i>/help</i> for commands and more details.</b>
 
 <b><u>Extras</u></b>
 
-➠ /status - Show Current Status of your Bot (🐝 Auth User Only!)
+➠ /status - Show Current Status of your Bot (⚡️ Auth User Only!)
 ➠ /id - Show ID information.
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
