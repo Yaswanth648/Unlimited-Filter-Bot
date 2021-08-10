@@ -3,7 +3,7 @@ class Script(object):
     START_MSG = """<b>Hey {},
 
 I'm an advanced unlimited filter bot with many capabilities!
-There is no practical limits for my filtering capacity 🐝
+There is no practical limits for my filtering capacity ⚡️
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -11,7 +11,7 @@ See <i>/help</i> for commands and more details.</b>
 
     HELP_MSG = """
 🚨 Oh! You Need Help!
-<b> Add me 🐝 as Admin in your Group & Start Filtering!
+<b> Add me ⚡️ as Admin in your Group & Start Filtering!
 
 <b><u>Basic Commands</u></b>
 ➠ /start - Check if I'm alive! 🟢
@@ -44,7 +44,7 @@ See <i>/help</i> for commands and more details.</b>
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
 🏷️ Bot : Strom Unlimited Filter Bot
-🏷️ Creator : <a href="https://telegram.dog/ValT_Aio"><b>Mr. Dlaize</b></a>
+🏷️ Creator : <a href="https://telegram.dog/ValT_Aio"><b>Mr. Rakesh</b></a>
 🏷️ Language : <a href='https://python.org/'>Python3</a>
 🏷️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 1.2.0</a> 
 🏷️ Server : <a href='https://www.heroku.com/'>Heroku</a>
